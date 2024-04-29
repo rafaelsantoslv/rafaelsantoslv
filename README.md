@@ -37,3 +37,5 @@ E-mail: rafaeldsantos442@gmail.com
 [Whatsapp](https://wa.me/5548988228714)
 
 Sinta-se à vontade para me contatar a qualquer momento para discutir projetos interessantes, oportunidades de trabalho ou apenas para trocar ideias sobre tecnologia!
+
+![rafaelsantoslv's Stats](https://github-readme-stats.vercel.app/api?username=rafaelsantoslv&theme=dark&show_icons=true&hide_border=true&count_private=true)
