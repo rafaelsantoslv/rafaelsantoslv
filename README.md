@@ -8,13 +8,15 @@ Como desenvolvedor backend, estou profundamente envolvido em uma variedade de te
 
   ###  Linguagens de Programação:
         Javascript 
-        Javascript(NodeJS)
         TypeScript
         PHP
+        Python
 
   ###  Frameworks:
-        Express.js
+        Express
         NestJS
+        NextJS
+        Vue
 
   ### Bancos de Dados:
         MySQL
@@ -22,11 +24,8 @@ Como desenvolvedor backend, estou profundamente envolvido em uma variedade de te
         MariaDB
 
    ### Ferramentas de Controle de Versão:
-        Git
         GitHub
 
-   ### Tecnologias Adicionais:
-        RESTful APIs
 
 Como Entrar em Contato
 
@@ -37,5 +36,3 @@ E-mail: rafaeldsantos442@gmail.com
 [Whatsapp](https://wa.me/5548988228714)
 
 Sinta-se à vontade para me contatar a qualquer momento para discutir projetos interessantes, oportunidades de trabalho ou apenas para trocar ideias sobre tecnologia!
-
-![rafaelsantoslv's Stats](https://github-readme-stats.vercel.app/api?username=rafaelsantoslv&theme=dark&show_icons=true&hide_border=true&count_private=true)
