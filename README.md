@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">My name is Rafael<br><br>- 🔭 Software Enginner @Mercado Libre<br>- 📚 I am currently studying systems analysis and development.<br>- ⚡ I have great enthusiasm for backend development.</p>
+<p align="left">My name is Rafael<br><br>- 🔭 Software Developer @Mercado Libre<br>- 📚 I am currently studying systems analysis and development.<br>- ⚡ I have great enthusiasm for backend development.</p>
 
 ###
 
